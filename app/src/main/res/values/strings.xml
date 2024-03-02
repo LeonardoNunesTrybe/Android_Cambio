@@ -8,4 +8,5 @@
     <string name="conversor_de_moedas">Conversor de Moedas</string>
     <string name="moeda">Moeda</string>
     <string name="carregando_moedas">Carregando moedas...</string>
+    <string name="selecione_uma_moeda">Selecione uma moeda.</string>
 </resources>

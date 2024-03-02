@@ -52,6 +52,16 @@
             android:text="@string/carregando_moedas"
             android:id="@+id/load_currency_state"/>
 
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:layout_marginTop="24dp"
+            android:text="@string/selecione_uma_moeda"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:id="@+id/select_currency_state"/>
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
