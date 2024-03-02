@@ -43,6 +43,15 @@
 
         </com.google.android.material.textfield.TextInputLayout>
 
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:text="@string/carregando_moedas"
+            android:id="@+id/load_currency_state"/>
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
